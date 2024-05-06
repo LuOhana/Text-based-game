@@ -1,0 +1,1 @@
+A text-based game in Python using setter and getter while importing 'room' and 'chest' classes to my 'main' game file. In this game, we navigate rooms typing north, south, east or west. The implementation of the chest class is still in progress.
